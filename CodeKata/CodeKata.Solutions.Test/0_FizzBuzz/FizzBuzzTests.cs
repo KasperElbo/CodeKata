@@ -1,7 +1,6 @@
-using CodeKata.Common;
 using CodeKata.Solutions._0_FizzBuzz;
 
-namespace CodeKata.Solutions.Test
+namespace CodeKata.Solutions.Test._0_FizzBuzz
 {
     public class FizzBuzzTests
     {
